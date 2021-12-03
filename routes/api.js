@@ -25,7 +25,6 @@ var router  = express.Router();
 var { color, bgcolor } = require(__path + '/lib/color.js');
 var options = require(__path + '/lib/options.js');
 var {
-	Nulis,
 	Vokal,
 	Base
 } = require('./../lib');
